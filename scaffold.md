@@ -9,7 +9,7 @@
 **工具版本**: v1.13.0
 **node版本**: v10.13.0
 **yeoman版本**: v2.0.6
-**生成时间**: 2019-10-12 10:07:05
+**生成时间**: 2019-10-12 11:22:35
 **生成方式**: 命令模式
-**生成参数**: {"orgName":"kiko-yuri","projectName":"deepexi-eggjs-kiko","author":"kiko","router":"default","db":"mongo","configservice":"none","apm":"none","swServers":"localhost:11800","mode":"command","version":"1.13.0","conditions":{"default-router":true},"dependencies":{"utils":true,"eureka":true,"swagger":true,"tx":true}}
-**生成命令**: yo generator-deepexi-eggjs -c --orgName=kiko-yuri --projectName=deepexi-eggjs-kiko --author=kiko --router=default --db=mongo --configservice=none --apm=none --swServers=localhost:11800
+**生成参数**: {"orgName":"kiko-yuri","projectName":"deepexi-eggjs-kiko","author":"kiko","router":"default","db":"mysql","configservice":"none","apm":"none","swServers":"localhost:11800","mode":"command","version":"1.13.0","conditions":{"default-router":true},"dependencies":{"utils":true,"eureka":true,"swagger":true,"tx":true}}
+**生成命令**: yo generator-deepexi-eggjs -c --orgName=kiko-yuri --projectName=deepexi-eggjs-kiko --author=kiko --router=default --db=mysql --configservice=none --apm=none --swServers=localhost:11800
