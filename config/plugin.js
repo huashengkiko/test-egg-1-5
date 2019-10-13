@@ -31,9 +31,9 @@ module.exports = {
     package: 'egg-tx',
   },
       
-  sequelize: {
+  mongoose: {
     enable: true,
-    package: 'egg-sequelize',
+    package: 'egg-mongoose',
   },
       
 
